@@ -1,5 +1,3 @@
-package Arrays.TwoPointers;
-
 // Rotate Array :
 // Time Complexity : O(n)
 // Space Complexity: O(1)

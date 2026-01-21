@@ -1,5 +1,3 @@
-package Arrays.TwoPointers;
-
 // Question: Remove duplicate elements in an array
 // Time complexity: O(n)
 // Space complexity: O(1)

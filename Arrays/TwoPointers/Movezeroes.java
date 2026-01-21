@@ -1,5 +1,3 @@
-package Arrays.TwoPointers;
-
 // Question: Move all zeroes to end
 // Time complexity: O(n)
 // Space complexity: O(1)
